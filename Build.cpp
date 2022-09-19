@@ -1,3 +1,5 @@
+#include <iosteam>
+#include "easy.h"
 using namespace std;
 void itc_name(){
     cout<<"Artem"<<endl;
