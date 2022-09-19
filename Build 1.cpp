@@ -1,4 +1,4 @@
-#include <iosream>
+#include <iostream>
 #include "easy.h"
 using namespace std;
 bool itc_iseven(int a1){
