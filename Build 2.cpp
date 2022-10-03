@@ -3,12 +3,13 @@
 using namespace std;
 int itc_sqrt(int a1){
     int a2;
+    a2=0;
     while (a2*a2<a1){
         a2++;
     }
     if (a2*a2==a1){
         return a2;
-        }
+    }
     return -1;
 }
 int itc_skv(int a1){
